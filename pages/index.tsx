@@ -45,7 +45,7 @@ export default function Home() {
               .
             </QuoteGeneratorDescription>
             <QuoteGeneratorButton>
-              <ButtonText onClick={null}>Pop one Quote</ButtonText>
+              <ButtonText>Pop one Quote</ButtonText>
             </QuoteGeneratorButton>
           </QuoteGeneratorComponent>
         </QuoteGeneratorContainer>
